@@ -43,9 +43,7 @@ public class ListaTarefa {
         
         listaTarefa.adicionarTarefa("Trocar pneu traseiro");
         listaTarefa.adicionarTarefa("Trocar filtro de óleo");
-
         listaTarefa.adicionarTarefa("Trocar novos itens");
-
         listaTarefa.adicionarTarefa("Trocar novos itens");
         
         System.out.println("Total de " + listaTarefa.obterNumeroTotalTarefas() + " tarefas cadastradas.");
